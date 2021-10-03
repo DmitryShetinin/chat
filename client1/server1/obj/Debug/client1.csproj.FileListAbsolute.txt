@@ -1,0 +1,40 @@
+C:\Users\Shche\source\repos\server1\server1\bin\Debug\server1.exe.config
+C:\Users\Shche\source\repos\server1\server1\bin\Debug\server1.exe
+C:\Users\Shche\source\repos\server1\server1\bin\Debug\server1.pdb
+C:\Users\Shche\source\repos\server1\server1\obj\Debug\server1.Form1.resources
+C:\Users\Shche\source\repos\server1\server1\obj\Debug\server1.Properties.Resources.resources
+C:\Users\Shche\source\repos\server1\server1\obj\Debug\client1.csproj.GenerateResource.cache
+C:\Users\Shche\source\repos\server1\server1\obj\Debug\client1.csproj.CoreCompileInputs.cache
+C:\Users\Shche\source\repos\server1\server1\obj\Debug\server1.exe
+C:\Users\Shche\source\repos\server1\server1\obj\Debug\server1.pdb
+C:\Users\Shche\source\repos\server1\server1\obj\Debug\client1.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\server1\server1\bin\Debug\server1.exe.config
+C:\Users\Администратор\Desktop\server1\server1\bin\Debug\server1.exe
+C:\Users\Администратор\Desktop\server1\server1\bin\Debug\server1.pdb
+C:\Users\Администратор\Desktop\server1\server1\obj\Debug\client1.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\server1\server1\obj\Debug\server1.Form1.resources
+C:\Users\Администратор\Desktop\server1\server1\obj\Debug\server1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\server1\server1\obj\Debug\client1.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\server1\server1\obj\Debug\client1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\server1\server1\obj\Debug\server1.exe
+C:\Users\Администратор\Desktop\server1\server1\obj\Debug\server1.pdb
+C:\Users\Администратор\Desktop\чат рабочий\server1\server1\bin\Debug\server1.exe.config
+C:\Users\Администратор\Desktop\чат рабочий\server1\server1\bin\Debug\server1.exe
+C:\Users\Администратор\Desktop\чат рабочий\server1\server1\bin\Debug\server1.pdb
+C:\Users\Администратор\Desktop\чат рабочий\server1\server1\obj\Debug\client1.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\чат рабочий\server1\server1\obj\Debug\server1.Form1.resources
+C:\Users\Администратор\Desktop\чат рабочий\server1\server1\obj\Debug\server1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\чат рабочий\server1\server1\obj\Debug\client1.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\чат рабочий\server1\server1\obj\Debug\client1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\чат рабочий\server1\server1\obj\Debug\server1.exe
+C:\Users\Администратор\Desktop\чат рабочий\server1\server1\obj\Debug\server1.pdb
+C:\Users\Администратор\Desktop\чат\client1\server1\bin\Debug\server1.exe.config
+C:\Users\Администратор\Desktop\чат\client1\server1\bin\Debug\server1.exe
+C:\Users\Администратор\Desktop\чат\client1\server1\bin\Debug\server1.pdb
+C:\Users\Администратор\Desktop\чат\client1\server1\obj\Debug\client1.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\чат\client1\server1\obj\Debug\server1.Form1.resources
+C:\Users\Администратор\Desktop\чат\client1\server1\obj\Debug\server1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\чат\client1\server1\obj\Debug\client1.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\чат\client1\server1\obj\Debug\client1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\чат\client1\server1\obj\Debug\server1.exe
+C:\Users\Администратор\Desktop\чат\client1\server1\obj\Debug\server1.pdb
