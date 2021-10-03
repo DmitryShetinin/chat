@@ -46,17 +46,17 @@ namespace Client1
                 {
                     NetworkStream stream = client.GetStream();
 
-                    // сообщение для отправки клиенту
+                    
                     string response = textBox1.Text;
-                    // преобразуем сообщение в массив байтов
+            
                     byte[] data = Encoding.UTF8.GetBytes(response);
 
-                    // отправка сообщения
+                   
                     stream.Write(data, 0, data.Length);
                     Console.WriteLine("Отправлено сообщение: {0}", response);
-                    // закрываем поток
+      
                     stream.Close();
-                    // закрываем подключение
+          
                     client.Close();
                     server.Stop();
                     break;
@@ -73,17 +73,17 @@ namespace Client1
                 {
                     NetworkStream stream = client.GetStream();
 
-                    // сообщение для отправки клиенту
+        
                     string response = textBox1.Text;
-                    // преобразуем сообщение в массив байтов
+   
                     byte[] data = Encoding.UTF8.GetBytes(response);
 
-                    // отправка сообщения
+                    
                     stream.Write(data, 0, data.Length);
                     Console.WriteLine("Отправлено сообщение: {0}", response);
-                    // закрываем поток
+                    
                     stream.Close();
-                    // закрываем подключение
+                    
                     client.Close();
                     server.Stop();
                     break;
